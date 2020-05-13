@@ -1,1 +1,4 @@
-<?php class Job
+<?php
+class Job
+{
+}
